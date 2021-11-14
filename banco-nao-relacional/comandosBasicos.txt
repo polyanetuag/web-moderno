@@ -1,0 +1,16 @@
+executar comando mongod
+help
+cls - limpar terminal
+show dbs - mostrar banco de dados
+use wm - escolher um banco de dado
+show dbs
+db.createCollection('estados') - criar uma coleção
+show dbs
+show collections
+db.createCollection('Estados')
+show collections - mostrar coleções
+db.Estados.drop() - criar uma coleção
+show collections
+db.estados.drop() - remover coleção
+show collections
+show dbs
